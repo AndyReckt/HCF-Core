@@ -1,0 +1,16 @@
+main: fr.rhodless.hcfcore.Main
+name: HCF-Core
+version: 0.0.1
+api-version: 1.8.8
+author: Rhodless
+commands:
+  f:
+    aliases:
+      - faction
+      - factions
+      - team
+      - t
+  hcf:
+    permission: zhcf.admin
+    aliases:
+      - zhcf
