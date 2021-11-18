@@ -1,6 +1,6 @@
 # HCF-Core
 ### Projet abandonné depuis mars 2021
-HCF-Core basique qui a été développé en début 2021, les factions sont gérés en [YMAL](https://en.wikipedia.org/wiki/YAML) (il est recommandé de changer ce mode de stockage en base de données, MongoDB dans l'idéal pour les performances). Le système de scoreboard est [FastBoard](https://github.com/MrMicky-FR/FastBoard) (il est recommandé de changer pour des performances optimales, je recommande [Assembly](https://github.com/ThatKawaiiSam/Assemble) ou [Frame](https://github.com/thundereye2k/Frame)).
+HCF-Core basique qui a été développé en début 2021, les factions sont gérés en [YMAL](https://en.wikipedia.org/wiki/YAML) (il est recommandé de changer ce mode de stockage en base de données, MongoDB dans l'idéal pour les performances). Le système de scoreboard est [FastBoard](https://github.com/MrMicky-FR/FastBoard) (il est recommandé de changer pour des performances optimales, je recommande [Assembler](https://github.com/ThatKawaiiSam/Assemble) ou [Frame](https://github.com/thundereye2k/Frame)).
 <h4> Je rappel que ce plugin est abandonné depuis longtemps et qu'il n'y aura aucun support et aucun changement (contacter "Hugo#0001 sur Discord ou @Rhodless sur Twitter en cas de question ou d'aide) </h4>
 
 # Configuration
