@@ -24,3 +24,13 @@ Le système de road (dans l'overworld) est terminé. Le système de territoire e
   <li><a href="https://github.com/Rhodless/HCF-Core/blob/main/src/main/java/fr/rhodless/hcfcore/player/HCFClass.java">HCFClass.java</a></li>
   <li><a href="https://github.com/Rhodless/HCF-Core/blob/main/src/main/java/fr/rhodless/hcfcore/player/Data.java">Data.java</a></li>
 </ul>
+
+# Class (enums) importantes sur la gestion des fichiers YML
+<ul>
+  <li><a href="https://github.com/Rhodless/HCF-Core/blob/main/src/main/java/fr/rhodless/hcfcore/file/FileManagement.java">FileManagement.java</a></li>
+  <br>
+  <li><a href="https://github.com/Rhodless/HCF-Core/blob/main/src/main/java/fr/rhodless/hcfcore/file/CooldownsValues.java">CooldownsValues.java</a></li>
+  <li><a href="https://github.com/Rhodless/HCF-Core/blob/main/src/main/java/fr/rhodless/hcfcore/file/LangValues.java">LangValues.java</a></li>
+  <li><a href="https://github.com/Rhodless/HCF-Core/blob/main/src/main/java/fr/rhodless/hcfcore/file/LocationsValues.java">LocationsValues.java</a></li>
+  <li><a href="https://github.com/Rhodless/HCF-Core/blob/main/src/main/java/fr/rhodless/hcfcore/file/ScoreboardValues.java">ScoreboardValues.java</a></li>
+</ul>
