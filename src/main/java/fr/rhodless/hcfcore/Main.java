@@ -1,6 +1,5 @@
 package fr.rhodless.hcfcore;
 
-import com.avaje.ebean.config.UnderscoreNamingConvention;
 import fr.rhodless.hcfcore.file.*;
 import fr.rhodless.hcfcore.player.Data;
 import fr.rhodless.hcfcore.register.Register;
