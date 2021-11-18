@@ -1,6 +1,8 @@
 # HCF-Core
 ### Projet abandonné depuis mars 2021
-C'est un HCF-Core basique qui a été développé au début 2021, la gestion des factions est en [YMAL](https://en.wikipedia.org/wiki/YAML) et n'est pas en async.
+HCF-Core basique qui a été développé en début 2021, les factions sont gérés en [YMAL](https://en.wikipedia.org/wiki/YAML) (il est recommandé de changer ce mode de stockage en base de données, MongoDB dans l'idéal pour les performances). Le système de scoreboard est [FastBoard](https://github.com/MrMicky-FR/FastBoard) (il est recommandé de changer pour des performances optimales, je recommande [Assembly](https://github.com/ThatKawaiiSam/Assemble) ou [Frame](https://github.com/thundereye2k/Frame)).
+<h4> Je rappel que ce plugin est abandonné depuis longtemps et qu'il n'y aura aucun support et aucun changement (contacter "Hugo#0001 sur Discord ou @Rhodless sur Twitter en cas de question ou d'aide) </h4>
+
 # Configuration
 <p>Tous les messages, scoreboard, positions (spawn et roads) sont configurables depuis les fichiers yml :</p>
 
